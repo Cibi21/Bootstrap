@@ -1,0 +1,118 @@
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\Bootstrap.dll.config
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\Bootstrap.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\Bootstrap.pdb
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\csc.exe
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\csc.exe.config
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\csc.rsp
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\csi.exe
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\csi.exe.config
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\csi.rsp
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.Managed.Core.targets
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.AppContext.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Collections.Immutable.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Console.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Globalization.Calendars.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.Compression.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.FileSystem.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Net.Http.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Net.Sockets.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Reflection.Metadata.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.ValueTuple.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.XmlDocument.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.XPath.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\vbc.exe
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\vbc.exe.config
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\vbc.rsp
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\VBCSCompiler.exe
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\roslyn\VBCSCompiler.exe.config
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.csprojAssemblyReference.cache
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.csproj.CoreCompileInputs.cache
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.csproj.CopyComplete
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.dll
+D:\INTERN STAGE3\HANDS ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.pdb
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\Bootstrap.dll.config
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\Bootstrap.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\Bootstrap.pdb
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\csc.exe
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\csc.exe.config
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\csc.rsp
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\csi.exe
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\csi.exe.config
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\csi.rsp
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.AppContext.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Collections.Immutable.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Console.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Globalization.Calendars.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.Compression.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.FileSystem.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Net.Http.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Net.Sockets.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Reflection.Metadata.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.ValueTuple.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.XPath.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\vbc.exe
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\vbc.exe.config
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\vbc.rsp
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\VBCSCompiler.exe
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\roslyn\VBCSCompiler.exe.config
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.csprojAssemblyReference.cache
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.csproj.CoreCompileInputs.cache
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.csproj.CopyComplete
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.dll
+D:\ADM20DN013\HANDS_ON\BOOTSTRAP\Bootstrap\obj\Debug\Bootstrap.pdb

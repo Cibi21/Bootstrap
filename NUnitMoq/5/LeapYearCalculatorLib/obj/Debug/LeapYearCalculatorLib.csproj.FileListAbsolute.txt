@@ -1,0 +1,7 @@
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\5\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.exe.config
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\5\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\5\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.pdb
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\5\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csprojAssemblyReference.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\5\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csproj.CoreCompileInputs.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\5\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\5\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.pdb

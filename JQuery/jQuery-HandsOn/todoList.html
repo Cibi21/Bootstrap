@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+$(document).ready(() => {
+  $("#addTaskBtn").click(() => {
+    let taskName = $("#taskName").val();
+    if (taskName == "") {
+      alert("Enter task details!!");
+    } else {
+      //append the task to Task list
+      $("#taskList").append("<br>" + taskName);
+      //clear the userInput field
+      $("#taskName").val("");
+    }
+  });
+});
+
+</script>
+<style>
+p {
+  font-size: 15px;
+  width: 500px;
+  color: blue;
+  margin: 0 10px;
+}
+</style>
+</head>
+
+<body>
+    <h1>To-Do List</h1>
+    <table>
+        <tr>
+            <td>Task:</td>
+            <td><input type="text" id="taskName"><br></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <button id="addTaskBtn">Add Task</button>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    <p id="taskList">
+        Today's task are:
+    </p>
+
+</body>
+
+</html>

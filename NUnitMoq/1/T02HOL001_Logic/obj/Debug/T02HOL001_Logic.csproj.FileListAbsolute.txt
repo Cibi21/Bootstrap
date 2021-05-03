@@ -1,0 +1,5 @@
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\1\T02HOL001_Logic\bin\Debug\T02HOL001_Logic.dll
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\1\T02HOL001_Logic\bin\Debug\T02HOL001_Logic.pdb
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\1\T02HOL001_Logic\obj\Debug\T02HOL001_Logic.csproj.CoreCompileInputs.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\1\T02HOL001_Logic\obj\Debug\T02HOL001_Logic.dll
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\1\T02HOL001_Logic\obj\Debug\T02HOL001_Logic.pdb

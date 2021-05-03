@@ -1,0 +1,7 @@
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\4\MathLibrary\bin\Debug\MathLibrary.exe.config
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\4\MathLibrary\bin\Debug\MathLibrary.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\4\MathLibrary\bin\Debug\MathLibrary.pdb
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\4\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\4\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\4\MathLibrary\obj\Debug\MathLibrary.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\4\MathLibrary\obj\Debug\MathLibrary.pdb

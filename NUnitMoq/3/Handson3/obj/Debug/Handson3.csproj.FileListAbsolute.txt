@@ -1,0 +1,7 @@
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\3\Handson3\bin\Debug\Handson3.exe.config
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\3\Handson3\bin\Debug\Handson3.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\3\Handson3\bin\Debug\Handson3.pdb
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\3\Handson3\obj\Debug\Handson3.csprojAssemblyReference.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\3\Handson3\obj\Debug\Handson3.csproj.CoreCompileInputs.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\3\Handson3\obj\Debug\Handson3.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\3\Handson3\obj\Debug\Handson3.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handson3", "Handson3.csproj", "{16CEDECF-53A1-4FCA-AA0C-2F1DADD347CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02HOL002_Testing", "..\T02HOL002_Testing\T02HOL002_Testing.csproj", "{F2156ED5-66C5-4A62-9DA0-051805B66849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CEDECF-53A1-4FCA-AA0C-2F1DADD347CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CEDECF-53A1-4FCA-AA0C-2F1DADD347CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CEDECF-53A1-4FCA-AA0C-2F1DADD347CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CEDECF-53A1-4FCA-AA0C-2F1DADD347CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2156ED5-66C5-4A62-9DA0-051805B66849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2156ED5-66C5-4A62-9DA0-051805B66849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2156ED5-66C5-4A62-9DA0-051805B66849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2156ED5-66C5-4A62-9DA0-051805B66849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E69AA91-F835-4106-BFC4-3866FD9CEF57}
+	EndGlobalSection
+EndGlobal

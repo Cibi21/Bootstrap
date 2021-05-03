@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Application</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+$(document).ready(() => {
+  $("input").keyup(() => {
+    calculateSum();
+  });
+});
+
+function calculateSum() {
+  let sum = 0;
+  $("input").each(function () {
+    if (!isNaN(this.value) && (this.value) !=="" ) {
+      //console.log(this.value);
+      sum += parseFloat(this.value);
+    }
+  });
+  $("#sumValue").text(Number(sum).toFixed(2));
+}
+
+</script>
+<style>
+body {
+  font-family: sans-serif;
+}
+table {
+  background-color:#E8DCFF;
+  border-collapse: collapse;
+}
+
+table td {
+  /* to display as per the doc apply the following styles*/
+  border: 1px solid black;
+  padding: 0 10px;
+}
+
+input {
+  background-color: #FEFFB0;
+  font-weight: bold;
+  text-align: right;
+}
+
+#sumLabel,
+#sumValue {
+  color: #174C68;
+  font-weight: bold;
+  font-size: 18px;
+  /* to display as per the doc apply the text-align center*/
+  text-align: center;
+}
+
+</style>
+</head>
+
+<body>
+
+    <table>
+        <tr>
+            <td>1</td>
+            <td>Math 1</td>
+            <td><input type="text"></td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Math 2</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Science</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>English</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Sanskrit</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Social Science</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td id="sumLabel">Sum :</td>
+            <td>
+                <div id="sumValue">0</div>
+            </td>
+        </tr>
+
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\7\CalculatorLib\bin\Debug\CalculatorLib.exe.config
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\7\CalculatorLib\bin\Debug\CalculatorLib.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\7\CalculatorLib\bin\Debug\CalculatorLib.pdb
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\7\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\7\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\7\CalculatorLib\obj\Debug\CalculatorLib.exe
+D:\ADM20DN013\HANDS_ON\NUnit&Moq\7\CalculatorLib\obj\Debug\CalculatorLib.pdb
